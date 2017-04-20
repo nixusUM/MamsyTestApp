@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MamsyTestApp</string>
+    <string name="show_results">Показать результаты</string>
+    <string name="input_number">Введите число</string>
+</resources>
